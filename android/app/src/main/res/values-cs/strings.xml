@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">Kvalita</string>
+    <string name="search">Hledat</string>
+    <string name="q_auto">Automaticky</string>
+    <string name="q_hq_on">Zapnout 1440p/4K (může sekat)</string>
+    <string name="q_hq_off">Vypnout 1440p/4K (režim H.264)</string>
+    <string name="media_channel">Přehrávání</string>
+    <string name="media_playing">Přehrává se</string>
+    <string name="media_prev">Předchozí</string>
+    <string name="media_next">Další</string>
+    <string name="media_play">Přehrát</string>
+    <string name="media_pause">Pozastavit</string>
+    <string name="debug_title">Ladicí protokol</string>
+    <string name="debug_sub">Poslední události a časy přehrávače – pošli, pokud něco nefunguje</string>
+    <string name="debug_empty">(zatím žádné události – otevři video a podívej se znovu)</string>
+    <string name="close">Zavřít</string>
+    <string name="clear">Vymazat</string>
+</resources>

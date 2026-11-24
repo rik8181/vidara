@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">الجودة</string>
+    <string name="search">بحث</string>
+    <string name="q_auto">تلقائي</string>
+    <string name="q_hq_on">تشغيل 1440p/4K (قد يتقطع)</string>
+    <string name="q_hq_off">إيقاف 1440p/4K (وضع H.264)</string>
+    <string name="media_channel">التشغيل</string>
+    <string name="media_playing">قيد التشغيل</string>
+    <string name="media_prev">السابق</string>
+    <string name="media_next">التالي</string>
+    <string name="media_play">تشغيل</string>
+    <string name="media_pause">إيقاف مؤقت</string>
+    <string name="debug_title">سجل التصحيح</string>
+    <string name="debug_sub">آخر أحداث المشغل وأوقاته – أرسله إذا حدث خطأ</string>
+    <string name="debug_empty">(لا توجد أحداث بعد – افتح فيديو ثم تحقق مرة أخرى)</string>
+    <string name="close">إغلاق</string>
+    <string name="clear">مسح</string>
+</resources>

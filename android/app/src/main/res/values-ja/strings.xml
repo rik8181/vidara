@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">画質</string>
+    <string name="search">検索</string>
+    <string name="q_auto">自動</string>
+    <string name="q_hq_on">1440p/4K をオン（カクつく場合あり）</string>
+    <string name="q_hq_off">1440p/4K をオフ（H.264 モード）</string>
+    <string name="media_channel">再生</string>
+    <string name="media_playing">再生中</string>
+    <string name="media_prev">前へ</string>
+    <string name="media_next">次へ</string>
+    <string name="media_play">再生</string>
+    <string name="media_pause">一時停止</string>
+    <string name="debug_title">デバッグログ</string>
+    <string name="debug_sub">最近のプレーヤーのイベントと時間 – 問題があれば送信してください</string>
+    <string name="debug_empty">（まだイベントはありません – 動画を開いてからもう一度確認してください）</string>
+    <string name="close">閉じる</string>
+    <string name="clear">消去</string>
+</resources>

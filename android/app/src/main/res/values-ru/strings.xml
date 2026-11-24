@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">Качество</string>
+    <string name="search">Поиск</string>
+    <string name="q_auto">Авто</string>
+    <string name="q_hq_on">Включить 1440p/4K (может тормозить)</string>
+    <string name="q_hq_off">Выключить 1440p/4K (режим H.264)</string>
+    <string name="media_channel">Воспроизведение</string>
+    <string name="media_playing">Воспроизводится</string>
+    <string name="media_prev">Предыдущее</string>
+    <string name="media_next">Следующее</string>
+    <string name="media_play">Воспроизвести</string>
+    <string name="media_pause">Пауза</string>
+    <string name="debug_title">Журнал отладки</string>
+    <string name="debug_sub">Последние события и тайминги плеера — отправьте, если что-то не так</string>
+    <string name="debug_empty">(событий пока нет — откройте видео и проверьте снова)</string>
+    <string name="close">Закрыть</string>
+    <string name="clear">Очистить</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">Kvalita</string>
+    <string name="search">Hľadať</string>
+    <string name="q_auto">Automaticky</string>
+    <string name="q_hq_on">Zapnúť 1440p/4K (môže sekať)</string>
+    <string name="q_hq_off">Vypnúť 1440p/4K (režim H.264)</string>
+    <string name="media_channel">Prehrávanie</string>
+    <string name="media_playing">Prehráva sa</string>
+    <string name="media_prev">Predchádzajúce</string>
+    <string name="media_next">Ďalšie</string>
+    <string name="media_play">Prehrať</string>
+    <string name="media_pause">Pozastaviť</string>
+    <string name="debug_title">Ladiaci protokol</string>
+    <string name="debug_sub">Posledné udalosti a časy prehrávača – pošli, ak niečo nefunguje</string>
+    <string name="debug_empty">(zatiaľ žiadne udalosti – otvor video a pozri sa znova)</string>
+    <string name="close">Zavrieť</string>
+    <string name="clear">Vymazať</string>
+</resources>

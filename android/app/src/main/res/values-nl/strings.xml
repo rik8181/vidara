@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">Kwaliteit</string>
+    <string name="search">Zoeken</string>
+    <string name="q_auto">Automatisch</string>
+    <string name="q_hq_on">1440p/4K inschakelen (kan haperen)</string>
+    <string name="q_hq_off">1440p/4K uitschakelen (H.264-modus)</string>
+    <string name="media_channel">Afspelen</string>
+    <string name="media_playing">Wordt afgespeeld</string>
+    <string name="media_prev">Vorige</string>
+    <string name="media_next">Volgende</string>
+    <string name="media_play">Afspelen</string>
+    <string name="media_pause">Pauzeren</string>
+    <string name="debug_title">Foutopsporingslog</string>
+    <string name="debug_sub">Recente spelergebeurtenissen en tijden – stuur het als er iets mis is</string>
+    <string name="debug_empty">(nog geen gebeurtenissen – open een video en kijk opnieuw)</string>
+    <string name="close">Sluiten</string>
+    <string name="clear">Wissen</string>
+</resources>

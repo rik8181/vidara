@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">画质</string>
+    <string name="search">搜索</string>
+    <string name="q_auto">自动</string>
+    <string name="q_hq_on">开启 1440p/4K（可能卡顿）</string>
+    <string name="q_hq_off">关闭 1440p/4K（H.264 模式）</string>
+    <string name="media_channel">播放</string>
+    <string name="media_playing">正在播放</string>
+    <string name="media_prev">上一个</string>
+    <string name="media_next">下一个</string>
+    <string name="media_play">播放</string>
+    <string name="media_pause">暂停</string>
+    <string name="debug_title">调试日志</string>
+    <string name="debug_sub">最近的播放器事件和耗时 – 出问题时请发送</string>
+    <string name="debug_empty">（暂无事件 – 打开一个视频后再查看）</string>
+    <string name="close">关闭</string>
+    <string name="clear">清除</string>
+</resources>

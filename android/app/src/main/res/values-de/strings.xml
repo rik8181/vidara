@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">Qualität</string>
+    <string name="search">Suchen</string>
+    <string name="q_auto">Automatisch</string>
+    <string name="q_hq_on">1440p/4K aktivieren (kann ruckeln)</string>
+    <string name="q_hq_off">1440p/4K deaktivieren (H.264-Modus)</string>
+    <string name="media_channel">Wiedergabe</string>
+    <string name="media_playing">Wird abgespielt</string>
+    <string name="media_prev">Zurück</string>
+    <string name="media_next">Weiter</string>
+    <string name="media_play">Abspielen</string>
+    <string name="media_pause">Pause</string>
+    <string name="debug_title">Fehlerprotokoll</string>
+    <string name="debug_sub">Letzte Player-Ereignisse und Zeiten – sende es, wenn etwas nicht stimmt</string>
+    <string name="debug_empty">(noch keine Ereignisse – öffne ein Video und sieh dann erneut nach)</string>
+    <string name="close">Schließen</string>
+    <string name="clear">Löschen</string>
+</resources>

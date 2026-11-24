@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">Якість</string>
+    <string name="search">Пошук</string>
+    <string name="q_auto">Авто</string>
+    <string name="q_hq_on">Увімкнути 1440p/4K (може гальмувати)</string>
+    <string name="q_hq_off">Вимкнути 1440p/4K (режим H.264)</string>
+    <string name="media_channel">Відтворення</string>
+    <string name="media_playing">Відтворюється</string>
+    <string name="media_prev">Попереднє</string>
+    <string name="media_next">Наступне</string>
+    <string name="media_play">Відтворити</string>
+    <string name="media_pause">Пауза</string>
+    <string name="debug_title">Журнал налагодження</string>
+    <string name="debug_sub">Останні події та таймінги плеєра — надішліть, якщо щось не так</string>
+    <string name="debug_empty">(подій ще немає — відкрийте відео й перевірте знову)</string>
+    <string name="close">Закрити</string>
+    <string name="clear">Очистити</string>
+</resources>

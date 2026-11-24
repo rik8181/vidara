@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">Calitate</string>
+    <string name="search">Caută</string>
+    <string name="q_auto">Automată</string>
+    <string name="q_hq_on">Activează 1440p/4K (poate sacada)</string>
+    <string name="q_hq_off">Dezactivează 1440p/4K (mod H.264)</string>
+    <string name="media_channel">Redare</string>
+    <string name="media_playing">Se redă</string>
+    <string name="media_prev">Anterior</string>
+    <string name="media_next">Următorul</string>
+    <string name="media_play">Redă</string>
+    <string name="media_pause">Pauză</string>
+    <string name="debug_title">Jurnal de depanare</string>
+    <string name="debug_sub">Ultimele evenimente și timpi ai playerului – trimite-l dacă ceva nu merge</string>
+    <string name="debug_empty">(încă nu există evenimente – deschide un videoclip, apoi verifică din nou)</string>
+    <string name="close">Închide</string>
+    <string name="clear">Șterge</string>
+</resources>

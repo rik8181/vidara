@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">화질</string>
+    <string name="search">검색</string>
+    <string name="q_auto">자동</string>
+    <string name="q_hq_on">1440p/4K 켜기 (끊길 수 있음)</string>
+    <string name="q_hq_off">1440p/4K 끄기 (H.264 모드)</string>
+    <string name="media_channel">재생</string>
+    <string name="media_playing">재생 중</string>
+    <string name="media_prev">이전</string>
+    <string name="media_next">다음</string>
+    <string name="media_play">재생</string>
+    <string name="media_pause">일시중지</string>
+    <string name="debug_title">디버그 로그</string>
+    <string name="debug_sub">최근 플레이어 이벤트와 시간 – 문제가 있으면 보내 주세요</string>
+    <string name="debug_empty">(아직 이벤트 없음 – 동영상을 연 뒤 다시 확인하세요)</string>
+    <string name="close">닫기</string>
+    <string name="clear">지우기</string>
+</resources>

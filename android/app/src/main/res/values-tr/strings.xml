@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">Kalite</string>
+    <string name="search">Ara</string>
+    <string name="q_auto">Otomatik</string>
+    <string name="q_hq_on">1440p/4K\'yı aç (takılabilir)</string>
+    <string name="q_hq_off">1440p/4K\'yı kapat (H.264 modu)</string>
+    <string name="media_channel">Oynatma</string>
+    <string name="media_playing">Oynatılıyor</string>
+    <string name="media_prev">Önceki</string>
+    <string name="media_next">Sonraki</string>
+    <string name="media_play">Oynat</string>
+    <string name="media_pause">Duraklat</string>
+    <string name="debug_title">Hata ayıklama günlüğü</string>
+    <string name="debug_sub">Oynatıcının son olayları ve süreleri – bir sorun varsa gönder</string>
+    <string name="debug_empty">(henüz olay yok – bir video aç, sonra tekrar bak)</string>
+    <string name="close">Kapat</string>
+    <string name="clear">Temizle</string>
+</resources>

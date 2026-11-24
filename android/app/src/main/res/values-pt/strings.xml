@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quality">Qualidade</string>
+    <string name="search">Pesquisar</string>
+    <string name="q_auto">Automática</string>
+    <string name="q_hq_on">Ativar 1440p/4K (pode travar)</string>
+    <string name="q_hq_off">Desativar 1440p/4K (modo H.264)</string>
+    <string name="media_channel">Reprodução</string>
+    <string name="media_playing">A reproduzir</string>
+    <string name="media_prev">Anterior</string>
+    <string name="media_next">Seguinte</string>
+    <string name="media_play">Reproduzir</string>
+    <string name="media_pause">Pausa</string>
+    <string name="debug_title">Registo de depuração</string>
+    <string name="debug_sub">Últimos eventos e tempos do leitor – envia se algo correr mal</string>
+    <string name="debug_empty">(ainda sem eventos – abre um vídeo e volta a ver)</string>
+    <string name="close">Fechar</string>
+    <string name="clear">Limpar</string>
+</resources>
